@@ -1,4 +1,4 @@
-# [English]()
+# [English](https://github.com/luoguliziheng/OI/blob/main/English-Readme.md)
 # 第一条 总纲
 为了增强信息学竞赛选手的合作意识，树立良好的学生合作竞争风气，特制定本章程。
 # 第二条 组织与领导
