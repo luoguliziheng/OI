@@ -1,4 +1,4 @@
-# [中文](https://github.com/luoguliziheng/OI/README.md)
+# [中文](https://github.com/luoguliziheng/OI/blob/main/README.md)
 # First general outline
 In order to enhance the awareness of cooperation among contestants of informatics competition and establish a good atmosphere of cooperation and competition among students, this regulation is formulated.
 # Article 2 Organization and leadership
